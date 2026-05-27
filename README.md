@@ -180,7 +180,7 @@ Through this project, I improved my skills in:
 ## 👩‍💻 Author
 
 **Gc**
-Aspiring Data Analyst & Software Developer
+Aspiring Data Analyst & SQlDeveloper
 
 ---
 
