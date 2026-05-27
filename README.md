@@ -125,15 +125,9 @@ Steps included:
 
 ## 🖼️ Dashboard Screenshots
 
-### Dashboard Overview
-
-![Dashboard Overview](screenshots/dashboard-overview.png)
-
----
-
 ### Sales Analysis
 
-![Sales Analysis](screenshots/sales-analysis.png)
+![Sales Analysis](screenshots/sales-trend.png)
 
 ---
 
