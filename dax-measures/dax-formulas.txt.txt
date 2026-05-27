@@ -1,0 +1,7 @@
+Total Sales = SUM(Bharat_Petrol[Sales_Amount])
+
+Total Liters Sold = SUM(Bharat_Petrol[Liters_Sold])
+
+Average Sales = AVERAGE(Bharat_Petrol[Sales_Amount])
+
+Total Transactions = COUNTROWS(Bharat_Petrol)
