@@ -125,6 +125,12 @@ Steps included:
 
 ## 🖼️ Dashboard Screenshots
 
+### Customer Insights
+
+![Customer Insights](screenshots/customer-insights.png)
+
+---
+
 ### Sales Analysis
 
 ![Sales Analysis](screenshots/sales-trend.png)
@@ -134,12 +140,6 @@ Steps included:
 ### Fuel Analysis
 
 ![Fuel Analysis](screenshots/fuel-analysis.png)
-
----
-
-### Customer Insights
-
-![Customer Insights](screenshots/customer-insights.png)
 
 ---
 
