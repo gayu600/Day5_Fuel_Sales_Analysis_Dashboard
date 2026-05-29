@@ -10,7 +10,7 @@ An interactive Power BI dashboard project created to analyze petrol pump sales, 
 This project is part of my **31 Days Data Analytics Challenge**.
 
 The Bharat Petrol Pump Sales Dashboard helps visualize and analyze sales performance using Power BI.  
-It provides useful business insights through KPI cards, charts, slicers, and interactive visuals.
+It provides useful business insights through KPI cards, charts, slicers, and interactive visual.
 
 ---
 
