@@ -30,7 +30,7 @@ The main objective of this project is to:
 
 - Power BI
 - Power Query
-- DAX
+- Dax
 - CSV Dataset
 - Data Cleaning
 - Data Visualization
