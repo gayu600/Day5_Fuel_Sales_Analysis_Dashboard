@@ -186,7 +186,7 @@ Aspiring Data Analyst & SQlDeveloper
 
 ## ⭐ Support
 
-If you like this project, feel free to star this repository.
+If you like this  project, feel free to star this repository.
 
 ````
 
