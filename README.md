@@ -1,7 +1,7 @@
 
 # Day5_Bharat_Fuel_Petrol_Sales_Analysis_Dashboard ⛽📊
 
-An interactive Power BI dashboard project created to analyze petrol pump sales, revenue, fuel performance, customer behavior, and business KPIs.
+An interactive Power BI dashboard project created to analyze petrol pump sales, revenue, fuel performance, customer behavior, and  business KPIs.
 
 ---
 
