@@ -26,7 +26,7 @@ The main objective of this project is to:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Uesd 
 
 - Power BI
 - Power Query
