@@ -22,7 +22,7 @@ The main objective of this project is to:
 - Track total revenue and transactions
 - Understand fuel-wise sales performance
 - Identify monthly and daily sales trends
-- Create an interactive dashboard for business decision-making
+- Create an interactive dashboard for business decision Making 
 
 ---
 
