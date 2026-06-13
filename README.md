@@ -29,7 +29,7 @@ The main objective of this project is to:
 ## 🛠️ Tools & Technologies Used 
 
 - Power BI
-- Power Query
+- Power Query 
 - Dax
 - CSV Dataset
 - Data Cleaning
