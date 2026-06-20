@@ -5,7 +5,7 @@ An interactive Power BI dashboard project created to analyze petrol pump sales, 
 
 ---
 
-## 📌 Project Overwiev 
+## 📌 Project Overwiew
 
 This project is part of my **31 Days Data Analytics Challenge**.
 
